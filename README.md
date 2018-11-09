@@ -3,6 +3,7 @@ Fillit is a programme (kind of like Tetris) when u give the program a number of 
 the programme will take every input and he will replace the '#' with and alphabetic sign depending on their order :D ! 
 * there is the output of this tetriminos in the end of this  README file . Enjoy 
 here is an exemple of the valid tetriminos that u can give as argument file to the programme :
+
 ....
 .##.
 .##.
