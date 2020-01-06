@@ -1,6 +1,13 @@
-# fillit
-Fillit is a programme (kind of like Tetris) when u give the program a number of tetriminos's and he try to put those tetriminosin the smallest square possible.
-the programme will take every input and he will replace the '#' with and alphabetic sign depending on their order :D ! 
-* there is the output of this tetriminos in the end of this  README file . Enjoy .
-u will find a valid test in the file test.
-Thank you for your time !
+                                                       # Fillit
+                                                       
+Fillit is a project which involves discovering and getting acquainted with a recurrent problem in programming: the search of an optimal solution among a very large number of possibilities in a reasonable amount of time. In this project, you will arrange Tetriminos among them and determine the smallest square that can fit all of them.
+
+# Objectives
+- Algorithmie basique
+- Entrées/sorties
+
+# Skills
+- Unix
+- Rigor
+- Group & interpersonal
+- Algorithms & AI
